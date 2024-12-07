@@ -1,0 +1,1 @@
+Quick and dirty solution. Likely will break easily. Comment/uncomment consent button depending on where you are (looks like some locations don't prompt the consent button).
